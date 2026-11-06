@@ -10,7 +10,47 @@ O **Cresci e Perdi** é um marketplace infantil desenvolvido de forma independen
 
 ## 📸 Demonstração visual
 
-As capturas de tela da aplicação serão adicionadas nesta seção. A documentação já está preparada para receber imagens da página inicial, catálogo, detalhes de anúncio, publicação e chat.
+Abaixo estão capturas reais da interface mobile do projeto, incluindo o carrossel de apresentação e os principais fluxos de navegação.
+
+### 🏠 Página inicial — carrossel
+
+Três destaques da experiência de entrada, com identidade visual própria e foco em moda infantil circular.
+
+<p align="center">
+  <img src="screenshots/home-primeiros-passos.png" width="245" alt="Página inicial — Primeiros passos" />
+  <img src="screenshots/home-pequenas-pecas.png" width="245" alt="Página inicial — Pequenas peças, grandes histórias" />
+  <img src="screenshots/home-carinho-continua.png" width="245" alt="Página inicial — O carinho continua" />
+</p>
+
+### 🔐 Autenticação — login e cadastro
+
+Fluxos de acesso e criação de conta, com campos de identificação e navegação entre telas.
+
+<p align="center">
+  <img src="screenshots/login.png" width="300" alt="Tela de login" />
+  <img src="screenshots/cadastro.png" width="300" alt="Tela de cadastro" />
+</p>
+
+### 📦 Publicação de anúncios
+
+Formulário para cadastrar peças, escolher categoria e definir se o anúncio é para venda, troca ou doação.
+
+<p align="center"><img src="screenshots/publicar-anuncio.png" width="330" alt="Formulário de publicação de anúncio" /></p>
+
+### 💬 Chat e favoritos
+
+Áreas de comunicação e de itens salvos. As imagens mostram os estados vazios dessas seções, não conversas ou favoritos já cadastrados.
+
+<p align="center">
+  <img src="screenshots/chat.png" width="300" alt="Chat sem conversas" />
+  <img src="screenshots/favoritos.png" width="300" alt="Favoritos sem itens salvos" />
+</p>
+
+### 🌱 Sobre a plataforma
+
+Apresentação da proposta de reaproveitamento de roupas e calçados infantis.
+
+<p align="center"><img src="screenshots/sobre.png" width="330" alt="Página Sobre o Cresci e Perdi" /></p>
 
 ## 🎯 Objetivo
 
@@ -109,4 +149,3 @@ Técnico em Desenvolvimento de Sistemas • Desenvolvedor Full Stack
 
 ---
 *Projeto independente para demonstração de competências em desenvolvimento de software.*
-# cresci-e-perdi
